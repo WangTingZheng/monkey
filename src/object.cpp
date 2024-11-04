@@ -1,4 +1,4 @@
-#include "../header/object.h"
+#include "object.h"
 
 namespace monkey {
   Null* __NULL = new Null();

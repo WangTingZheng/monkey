@@ -1,4 +1,4 @@
-#include "../header/token.h"
+#include "token.h"
 
 namespace monkey {
 

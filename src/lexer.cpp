@@ -1,5 +1,5 @@
 #include <ctype.h>
-#include "../header/lexer.h"
+#include "lexer.h"
 
 namespace monkey {
 

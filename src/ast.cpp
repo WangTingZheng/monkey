@@ -1,4 +1,4 @@
-#include "../header/ast.h"
+#include "ast.h"
 
 namespace monkey{
 
